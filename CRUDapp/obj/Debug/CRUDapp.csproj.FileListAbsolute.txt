@@ -1,0 +1,314 @@
+C:\Users\LENOVO\Desktop\asp.net dyali\CRUDapp\CRUDapp\bin\Debug\CRUDapp.exe.config
+C:\Users\LENOVO\Desktop\asp.net dyali\CRUDapp\CRUDapp\obj\Debug\CRUDapp.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\asp.net dyali\CRUDapp\CRUDapp\obj\Debug\CRUDapp.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\asp.net dyali\CRUDapp\CRUDapp\obj\Debug\CRUDapp.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\asp.net dyali\CRUDapp\CRUDapp\bin\Debug\CRUDapp.exe
+C:\Users\LENOVO\Desktop\asp.net dyali\CRUDapp\CRUDapp\bin\Debug\CRUDapp.pdb
+C:\Users\LENOVO\Desktop\asp.net dyali\CRUDapp\CRUDapp\obj\Debug\CRUDapp.exe
+C:\Users\LENOVO\Desktop\asp.net dyali\CRUDapp\CRUDapp\obj\Debug\CRUDapp.pdb
+C:\Users\LENOVO\Desktop\asp.net dyali\CRUDapp\CRUDapp\obj\Debug\CRUDapp.login.resources
+C:\Users\LENOVO\Desktop\asp.net dyali\CRUDapp\CRUDapp\obj\Debug\CRUDapp.acceuil.resources
+C:\Users\LENOVO\Desktop\ado winforms dyali\CRUDapp\CRUDapp\bin\Debug\CRUDapp.exe.config
+C:\Users\LENOVO\Desktop\ado winforms dyali\CRUDapp\CRUDapp\obj\Debug\CRUDapp.exe
+C:\Users\LENOVO\Desktop\ado winforms dyali\CRUDapp\CRUDapp\obj\Debug\CRUDapp.pdb
+C:\Users\LENOVO\Desktop\ado winforms dyali\CRUDapp\CRUDapp\bin\Debug\CRUDapp.exe
+C:\Users\LENOVO\Desktop\ado winforms dyali\CRUDapp\CRUDapp\bin\Debug\CRUDapp.pdb
+C:\Users\LENOVO\Desktop\ado winforms dyali\CRUDapp\CRUDapp\obj\Debug\CRUDapp.acceuil.resources
+C:\Users\LENOVO\Desktop\ado winforms dyali\CRUDapp\CRUDapp\obj\Debug\CRUDapp.login.resources
+C:\Users\LENOVO\Desktop\ado winforms dyali\CRUDapp\CRUDapp\obj\Debug\CRUDapp.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\ado winforms dyali\CRUDapp\CRUDapp\obj\Debug\CRUDapp.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\ado winforms dyali\CRUDapp\CRUDapp\obj\Debug\CRUDapp.Utilisateurs.resources
+C:\Users\LENOVO\Desktop\ado winforms dyali\CRUDapp\CRUDapp\bin\Debug\Guna.UI2.dll
+C:\Users\LENOVO\Desktop\ado winforms dyali\CRUDapp\CRUDapp\bin\Debug\Guna.UI.dll
+C:\Users\LENOVO\Desktop\ado winforms dyali\CRUDapp\CRUDapp\obj\Debug\CRUDapp.ModificationClients.resources
+C:\Users\LENOVO\Desktop\ado winforms dyali\CRUDapp\CRUDapp\obj\Debug\CRUDapp.RechercheClient.resources
+C:\Users\LENOVO\Desktop\ado winforms dyali\CRUDapp\CRUDapp\bin\Debug\MaterialSkin.dll
+C:\Users\LENOVO\Desktop\ado winforms dyali\CRUDapp\CRUDapp\obj\Debug\CRUDapp.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\CRUDapp.exe.config
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\obj\Debug\CRUDapp.exe
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\obj\Debug\CRUDapp.pdb
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\obj\Debug\CRUDapp.acceuil.resources
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\obj\Debug\CRUDapp.login.resources
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\obj\Debug\CRUDapp.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\obj\Debug\CRUDapp.RechercheClient.resources
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\obj\Debug\CRUDapp.Utilisateurs.resources
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\obj\Debug\CRUDapp.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\CRUDapp.exe
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\CRUDapp.pdb
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Guna.UI.dll
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Guna.UI2.dll
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\MaterialSkin.dll
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\obj\Debug\CRUDapp.Form1.resources
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\obj\Debug\CRUDapp.Fournisseur.resources
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\obj\Debug\CRUDapp.Produits.resources
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\obj\Debug\CRUDapp.ModificationClients.resources
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.Licensing.dll
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\obj\Debug\CRUDapp.Exporter.resources
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\obj\Debug\CRUDapp.Service.resources
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\obj\Debug\CRUDapp.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\ado gestion business\CRUDapp\CRUDapp\obj\Debug\CRUDapp.Ventes.resources
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\CRUDapp.exe.config
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\obj\Debug\CRUDapp.exe
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\obj\Debug\CRUDapp.pdb
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\CRUDapp.exe
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\CRUDapp.pdb
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.Licensing.dll
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\MaterialSkin.dll
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\mscorlib.dll
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\ar\mscorlib.resources.dll
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\fr\mscorlib.resources.dll
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\normidna.nlp
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\normnfc.nlp
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\normnfd.nlp
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\normnfkc.nlp
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\bin\Debug\normnfkd.nlp
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\obj\Debug\CRUDapp.csprojResolveAssemblyReference.cache
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\obj\Debug\CRUDapp.acceuil.resources
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\obj\Debug\CRUDapp.ModificationClients.resources
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\obj\Debug\CRUDapp.Exporter.resources
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\obj\Debug\CRUDapp.Form1.resources
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\obj\Debug\CRUDapp.Fournisseur.resources
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\obj\Debug\CRUDapp.login.resources
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\obj\Debug\CRUDapp.Produits.resources
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\obj\Debug\CRUDapp.Properties.Resources.resources
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\obj\Debug\CRUDapp.RechercheClient.resources
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\obj\Debug\CRUDapp.Service.resources
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\obj\Debug\CRUDapp.Utilisateurs.resources
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\obj\Debug\CRUDapp.Ventes.resources
+C:\Users\adminn\Desktop\ado gestion business\CRUDapp\CRUDapp\obj\Debug\CRUDapp.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\ado gestion business Best\CRUDapp\CRUDapp\bin\Debug\CRUDapp.exe.config
+C:\Users\LENOVO\Desktop\ado gestion business Best\CRUDapp\CRUDapp\obj\Debug\CRUDapp.exe
+C:\Users\LENOVO\Desktop\ado gestion business Best\CRUDapp\CRUDapp\obj\Debug\CRUDapp.pdb
+C:\Users\LENOVO\Desktop\ado gestion business Best\CRUDapp\CRUDapp\bin\Debug\CRUDapp.exe
+C:\Users\LENOVO\Desktop\ado gestion business Best\CRUDapp\CRUDapp\bin\Debug\CRUDapp.pdb
+C:\Users\LENOVO\Desktop\ado gestion business Best\CRUDapp\CRUDapp\obj\Debug\CRUDapp.acceuil.resources
+C:\Users\LENOVO\Desktop\ado gestion business Best\CRUDapp\CRUDapp\obj\Debug\CRUDapp.ModificationClients.resources
+C:\Users\LENOVO\Desktop\ado gestion business Best\CRUDapp\CRUDapp\obj\Debug\CRUDapp.Exporter.resources
+C:\Users\LENOVO\Desktop\ado gestion business Best\CRUDapp\CRUDapp\obj\Debug\CRUDapp.Form1.resources
+C:\Users\LENOVO\Desktop\ado gestion business Best\CRUDapp\CRUDapp\obj\Debug\CRUDapp.Fournisseur.resources
+C:\Users\LENOVO\Desktop\ado gestion business Best\CRUDapp\CRUDapp\obj\Debug\CRUDapp.login.resources
+C:\Users\LENOVO\Desktop\ado gestion business Best\CRUDapp\CRUDapp\obj\Debug\CRUDapp.Produits.resources
+C:\Users\LENOVO\Desktop\ado gestion business Best\CRUDapp\CRUDapp\obj\Debug\CRUDapp.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\ado gestion business Best\CRUDapp\CRUDapp\obj\Debug\CRUDapp.RechercheClient.resources
+C:\Users\LENOVO\Desktop\ado gestion business Best\CRUDapp\CRUDapp\obj\Debug\CRUDapp.Service.resources
+C:\Users\LENOVO\Desktop\ado gestion business Best\CRUDapp\CRUDapp\obj\Debug\CRUDapp.Utilisateurs.resources
+C:\Users\LENOVO\Desktop\ado gestion business Best\CRUDapp\CRUDapp\obj\Debug\CRUDapp.Ventes.resources
+C:\Users\LENOVO\Desktop\ado gestion business Best\CRUDapp\CRUDapp\obj\Debug\CRUDapp.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\ado gestion business Best\CRUDapp\CRUDapp\obj\Debug\CRUDapp.Form2.resources
+C:\Users\LENOVO\Desktop\ado gestion business Best\CRUDapp\CRUDapp\bin\Debug\CRUDapp.exe.manifest
+C:\Users\LENOVO\Desktop\ado gestion business Best\CRUDapp\CRUDapp\bin\Debug\CRUDapp.application
+C:\Users\LENOVO\Desktop\ado gestion business Best\CRUDapp\CRUDapp\obj\Debug\CRUDapp.TrustInfo.xml
+C:\Users\LENOVO\Desktop\ado gestion business Best\CRUDapp\CRUDapp\obj\Debug\CRUDapp.exe.manifest
+C:\Users\LENOVO\Desktop\ado gestion business Best\CRUDapp\CRUDapp\obj\Debug\CRUDapp.application
+C:\Users\LENOVO\Desktop\ado gestion business Best\CRUDapp\CRUDapp\obj\Debug\CRUDapp.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\ado\ado gestion business Best\CRUDapp\CRUDapp\bin\Debug\CRUDapp.exe.config
+C:\Users\LENOVO\Desktop\ado\ado gestion business Best\CRUDapp\CRUDapp\obj\Debug\CRUDapp.exe
+C:\Users\LENOVO\Desktop\ado\ado gestion business Best\CRUDapp\CRUDapp\obj\Debug\CRUDapp.pdb
+C:\Users\LENOVO\Desktop\ado\ado gestion business Best\CRUDapp\CRUDapp\bin\Debug\CRUDapp.exe.manifest
+C:\Users\LENOVO\Desktop\ado\ado gestion business Best\CRUDapp\CRUDapp\bin\Debug\CRUDapp.application
+C:\Users\LENOVO\Desktop\ado\ado gestion business Best\CRUDapp\CRUDapp\bin\Debug\CRUDapp.exe
+C:\Users\LENOVO\Desktop\ado\ado gestion business Best\CRUDapp\CRUDapp\bin\Debug\CRUDapp.pdb
+C:\Users\LENOVO\Desktop\ado\ado gestion business Best\CRUDapp\CRUDapp\obj\Debug\CRUDapp.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\ado\ado gestion business Best\CRUDapp\CRUDapp\obj\Debug\CRUDapp.acceuil.resources
+C:\Users\LENOVO\Desktop\ado\ado gestion business Best\CRUDapp\CRUDapp\obj\Debug\CRUDapp.ModificationClients.resources
+C:\Users\LENOVO\Desktop\ado\ado gestion business Best\CRUDapp\CRUDapp\obj\Debug\CRUDapp.Exporter.resources
+C:\Users\LENOVO\Desktop\ado\ado gestion business Best\CRUDapp\CRUDapp\obj\Debug\CRUDapp.Form1.resources
+C:\Users\LENOVO\Desktop\ado\ado gestion business Best\CRUDapp\CRUDapp\obj\Debug\CRUDapp.Form2.resources
+C:\Users\LENOVO\Desktop\ado\ado gestion business Best\CRUDapp\CRUDapp\obj\Debug\CRUDapp.Fournisseur.resources
+C:\Users\LENOVO\Desktop\ado\ado gestion business Best\CRUDapp\CRUDapp\obj\Debug\CRUDapp.login.resources
+C:\Users\LENOVO\Desktop\ado\ado gestion business Best\CRUDapp\CRUDapp\obj\Debug\CRUDapp.Produits.resources
+C:\Users\LENOVO\Desktop\ado\ado gestion business Best\CRUDapp\CRUDapp\obj\Debug\CRUDapp.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\ado\ado gestion business Best\CRUDapp\CRUDapp\obj\Debug\CRUDapp.RechercheClient.resources
+C:\Users\LENOVO\Desktop\ado\ado gestion business Best\CRUDapp\CRUDapp\obj\Debug\CRUDapp.Service.resources
+C:\Users\LENOVO\Desktop\ado\ado gestion business Best\CRUDapp\CRUDapp\obj\Debug\CRUDapp.Utilisateurs.resources
+C:\Users\LENOVO\Desktop\ado\ado gestion business Best\CRUDapp\CRUDapp\obj\Debug\CRUDapp.Ventes.resources
+C:\Users\LENOVO\Desktop\ado\ado gestion business Best\CRUDapp\CRUDapp\obj\Debug\CRUDapp.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\ado\ado gestion business Best\CRUDapp\CRUDapp\obj\Debug\CRUDapp.TrustInfo.xml
+C:\Users\LENOVO\Desktop\ado\ado gestion business Best\CRUDapp\CRUDapp\obj\Debug\CRUDapp.exe.manifest
+C:\Users\LENOVO\Desktop\ado\ado gestion business Best\CRUDapp\CRUDapp\obj\Debug\CRUDapp.application
+C:\Users\LENOVO\Desktop\my c# finished apps\ado gestion business Best fati app\CRUDapp\CRUDapp\bin\Debug\CRUDapp.exe.config
+C:\Users\LENOVO\Desktop\my c# finished apps\ado gestion business Best fati app\CRUDapp\CRUDapp\obj\Debug\CRUDapp.exe
+C:\Users\LENOVO\Desktop\my c# finished apps\ado gestion business Best fati app\CRUDapp\CRUDapp\obj\Debug\CRUDapp.pdb
+C:\Users\LENOVO\Desktop\my c# finished apps\ado gestion business Best fati app\CRUDapp\CRUDapp\bin\Debug\CRUDapp.exe.manifest
+C:\Users\LENOVO\Desktop\my c# finished apps\ado gestion business Best fati app\CRUDapp\CRUDapp\bin\Debug\CRUDapp.application
+C:\Users\LENOVO\Desktop\my c# finished apps\ado gestion business Best fati app\CRUDapp\CRUDapp\bin\Debug\CRUDapp.exe
+C:\Users\LENOVO\Desktop\my c# finished apps\ado gestion business Best fati app\CRUDapp\CRUDapp\bin\Debug\CRUDapp.pdb
+C:\Users\LENOVO\Desktop\my c# finished apps\ado gestion business Best fati app\CRUDapp\CRUDapp\obj\Debug\CRUDapp.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\my c# finished apps\ado gestion business Best fati app\CRUDapp\CRUDapp\obj\Debug\CRUDapp.acceuil.resources
+C:\Users\LENOVO\Desktop\my c# finished apps\ado gestion business Best fati app\CRUDapp\CRUDapp\obj\Debug\CRUDapp.ModificationClients.resources
+C:\Users\LENOVO\Desktop\my c# finished apps\ado gestion business Best fati app\CRUDapp\CRUDapp\obj\Debug\CRUDapp.Exporter.resources
+C:\Users\LENOVO\Desktop\my c# finished apps\ado gestion business Best fati app\CRUDapp\CRUDapp\obj\Debug\CRUDapp.Form1.resources
+C:\Users\LENOVO\Desktop\my c# finished apps\ado gestion business Best fati app\CRUDapp\CRUDapp\obj\Debug\CRUDapp.Form2.resources
+C:\Users\LENOVO\Desktop\my c# finished apps\ado gestion business Best fati app\CRUDapp\CRUDapp\obj\Debug\CRUDapp.Fournisseur.resources
+C:\Users\LENOVO\Desktop\my c# finished apps\ado gestion business Best fati app\CRUDapp\CRUDapp\obj\Debug\CRUDapp.login.resources
+C:\Users\LENOVO\Desktop\my c# finished apps\ado gestion business Best fati app\CRUDapp\CRUDapp\obj\Debug\CRUDapp.Produits.resources
+C:\Users\LENOVO\Desktop\my c# finished apps\ado gestion business Best fati app\CRUDapp\CRUDapp\obj\Debug\CRUDapp.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\my c# finished apps\ado gestion business Best fati app\CRUDapp\CRUDapp\obj\Debug\CRUDapp.RechercheClient.resources
+C:\Users\LENOVO\Desktop\my c# finished apps\ado gestion business Best fati app\CRUDapp\CRUDapp\obj\Debug\CRUDapp.Service.resources
+C:\Users\LENOVO\Desktop\my c# finished apps\ado gestion business Best fati app\CRUDapp\CRUDapp\obj\Debug\CRUDapp.Utilisateurs.resources
+C:\Users\LENOVO\Desktop\my c# finished apps\ado gestion business Best fati app\CRUDapp\CRUDapp\obj\Debug\CRUDapp.Ventes.resources
+C:\Users\LENOVO\Desktop\my c# finished apps\ado gestion business Best fati app\CRUDapp\CRUDapp\obj\Debug\CRUDapp.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\my c# finished apps\ado gestion business Best fati app\CRUDapp\CRUDapp\obj\Debug\CRUDapp.TrustInfo.xml
+C:\Users\LENOVO\Desktop\my c# finished apps\ado gestion business Best fati app\CRUDapp\CRUDapp\obj\Debug\CRUDapp.exe.manifest
+C:\Users\LENOVO\Desktop\my c# finished apps\ado gestion business Best fati app\CRUDapp\CRUDapp\obj\Debug\CRUDapp.application
+C:\Users\LENOVO\Desktop\my work\my c# finished apps\ado gestion business Best fati app\CRUDapp\CRUDapp\bin\Debug\CRUDapp.exe.config
+C:\Users\LENOVO\Desktop\my work\my c# finished apps\ado gestion business Best fati app\CRUDapp\CRUDapp\obj\Debug\CRUDapp.exe
+C:\Users\LENOVO\Desktop\my work\my c# finished apps\ado gestion business Best fati app\CRUDapp\CRUDapp\obj\Debug\CRUDapp.pdb
+C:\Users\LENOVO\Desktop\my work\my c# finished apps\ado gestion business Best fati app\CRUDapp\CRUDapp\bin\Debug\CRUDapp.exe.manifest
+C:\Users\LENOVO\Desktop\my work\my c# finished apps\ado gestion business Best fati app\CRUDapp\CRUDapp\bin\Debug\CRUDapp.application
+C:\Users\LENOVO\Desktop\my work\my c# finished apps\ado gestion business Best fati app\CRUDapp\CRUDapp\bin\Debug\CRUDapp.exe
+C:\Users\LENOVO\Desktop\my work\my c# finished apps\ado gestion business Best fati app\CRUDapp\CRUDapp\bin\Debug\CRUDapp.pdb
+C:\Users\LENOVO\Desktop\my work\my c# finished apps\ado gestion business Best fati app\CRUDapp\CRUDapp\obj\Debug\CRUDapp.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\my work\my c# finished apps\ado gestion business Best fati app\CRUDapp\CRUDapp\obj\Debug\CRUDapp.acceuil.resources
+C:\Users\LENOVO\Desktop\my work\my c# finished apps\ado gestion business Best fati app\CRUDapp\CRUDapp\obj\Debug\CRUDapp.ModificationClients.resources
+C:\Users\LENOVO\Desktop\my work\my c# finished apps\ado gestion business Best fati app\CRUDapp\CRUDapp\obj\Debug\CRUDapp.Exporter.resources
+C:\Users\LENOVO\Desktop\my work\my c# finished apps\ado gestion business Best fati app\CRUDapp\CRUDapp\obj\Debug\CRUDapp.Form1.resources
+C:\Users\LENOVO\Desktop\my work\my c# finished apps\ado gestion business Best fati app\CRUDapp\CRUDapp\obj\Debug\CRUDapp.Form2.resources
+C:\Users\LENOVO\Desktop\my work\my c# finished apps\ado gestion business Best fati app\CRUDapp\CRUDapp\obj\Debug\CRUDapp.Fournisseur.resources
+C:\Users\LENOVO\Desktop\my work\my c# finished apps\ado gestion business Best fati app\CRUDapp\CRUDapp\obj\Debug\CRUDapp.login.resources
+C:\Users\LENOVO\Desktop\my work\my c# finished apps\ado gestion business Best fati app\CRUDapp\CRUDapp\obj\Debug\CRUDapp.Produits.resources
+C:\Users\LENOVO\Desktop\my work\my c# finished apps\ado gestion business Best fati app\CRUDapp\CRUDapp\obj\Debug\CRUDapp.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\my work\my c# finished apps\ado gestion business Best fati app\CRUDapp\CRUDapp\obj\Debug\CRUDapp.RechercheClient.resources
+C:\Users\LENOVO\Desktop\my work\my c# finished apps\ado gestion business Best fati app\CRUDapp\CRUDapp\obj\Debug\CRUDapp.Service.resources
+C:\Users\LENOVO\Desktop\my work\my c# finished apps\ado gestion business Best fati app\CRUDapp\CRUDapp\obj\Debug\CRUDapp.Utilisateurs.resources
+C:\Users\LENOVO\Desktop\my work\my c# finished apps\ado gestion business Best fati app\CRUDapp\CRUDapp\obj\Debug\CRUDapp.Ventes.resources
+C:\Users\LENOVO\Desktop\my work\my c# finished apps\ado gestion business Best fati app\CRUDapp\CRUDapp\obj\Debug\CRUDapp.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\my work\my c# finished apps\ado gestion business Best fati app\CRUDapp\CRUDapp\obj\Debug\CRUDapp.TrustInfo.xml
+C:\Users\LENOVO\Desktop\my work\my c# finished apps\ado gestion business Best fati app\CRUDapp\CRUDapp\obj\Debug\CRUDapp.exe.manifest
+C:\Users\LENOVO\Desktop\my work\my c# finished apps\ado gestion business Best fati app\CRUDapp\CRUDapp\obj\Debug\CRUDapp.application
+C:\Users\LENOVO\Desktop\my work\my c# finished apps\ado gestion business Best fati app\CRUDapp\CRUDapp\bin\Debug\lamsaloungedatabase.db
+C:\Users\LENOVO\Desktop\my work\my c# finished apps\ado gestion business Best fati app\CRUDapp\CRUDapp\bin\Debug\SQLite.Interop.dll
+C:\Users\LENOVO\Desktop\my work\my c# finished apps\ado gestion business Best fati app\CRUDapp\CRUDapp\bin\Debug\msvcr100.dll
+C:\Users\LENOVO\Desktop\my work\my c# finished apps\ado gestion business Best fati app\CRUDapp\CRUDapp\bin\Debug\System.Data.SQLite.dll
